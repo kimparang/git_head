@@ -5,3 +5,4 @@ second-commit
 third-commit
 
 fetch
+new-branch
